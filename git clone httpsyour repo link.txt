@@ -1,0 +1,5 @@
+git clone https:your repo link
+git init
+git add .
+git commit -m "branch name"
+git push -u origin "branch name"
